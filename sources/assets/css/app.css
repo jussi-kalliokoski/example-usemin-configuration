@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'myfont';
+    src: url('/assets/fonts/myfont/myfont.eot');
+    src:
+        url('/assets/fonts/myfont/myfont.eot#iefix') format('embedded-opentype'),
+        url('/assets/fonts/myfont/myfont.woff') format('woff'),
+        url('/assets/fonts/myfont/myfont.ttf') format('truetype'),
+        url('/assets/fonts/myfont/myfont.svg#myfont') format('svg');
+}
+
+body {
+    background-image: url(/assets/images/bg.png);
+    font-family: myfont;
+}

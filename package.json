@@ -1,0 +1,13 @@
+{
+  "name": "example-usemin-configuration",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "grunt-usemin": "~0.1.12",
+    "grunt-rev": "~0.1.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt": "~0.4.1"
+  }
+}
